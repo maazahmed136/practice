@@ -1,0 +1,52 @@
+*
+{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+}
+.content
+{
+   
+    height: 500px;
+    width: 700px;
+   
+    background-color: red; 
+    color: white;
+    
+    
+
+}
+.main
+{
+    display: flex;
+    border: 25px solid gold;
+    align-items: center;
+    justify-content: space-around;
+    margin-top: 20px;
+    padding: 20px;
+
+}
+.my image img
+{
+height: 100%;
+width: 100%;
+}
+.my image
+{
+    height: 350px;
+    width: 300px;
+}
+.clickme a
+{
+    background-color: blue;
+    padding: 0 20px;
+    margin-top: 20px;
+
+
+}
+.content h1
+{
+    font-size: 48px;
+    padding-bottom: 20px;
+}
